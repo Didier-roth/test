@@ -11,6 +11,7 @@ namespace test
         static void Main(string[] args)
         {
             //coucou ceci est un test
+            //ceci est un ajout du pc2
         }
     }
 }
